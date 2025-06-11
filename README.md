@@ -111,3 +111,7 @@ With this project, I aimed to create a simulated enterprise environment by deplo
 **Ref 7: Password Reset in ADUC**
 
 ---
+
+### Step 8. Group Policy Management
+
+ ⏳⏳⏳⏳
